@@ -3,6 +3,6 @@
 
 int main()
 {
-	printf("App2_test1");
+	printf("App2_test2");
 	return 0;
 }
